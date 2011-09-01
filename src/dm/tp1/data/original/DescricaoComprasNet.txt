@@ -1,0 +1,17 @@
+Descrição da base:
+
+Coluna 1 - "ChavePregao" : Identificar número único de cada pregão
+Coluna 2 - "UASG": Identificar numérico ńico de cada Orgão governamental 
+Coluna 3 - "PregoeiroOficial": Nome completo do pregoeiro (i.e., responsável pelo decorrer do leilão)
+Coluna 4 - "Descricao": Descrição textual sucinta sobre o item de compra
+Coluna 5 - "DescricaoComplementar": Descrição detalahada sobre o item de compra
+Coluna 6 - "Quantidade": Quantidade de itens distintos incluídos na compra
+Coluna 7 - "UnidadeFornecimento": Unidade de medida dos itens listados na compra
+Coluna 8 - "ValordeReferencia": Valor total estimado para a compra (em unidade monetárias)
+Coluna 9 - "Situacao": Situação final do pregão
+Coluna 10 - "AceitoPara": Nome do vencedor do pregão
+Coluna 10 - "PeloMenorLance": Valor de compra alcançado ao fim do pregão (em unidade monetárias)
+Coluna 12 - "ValorNegociado": Valor final de compra alcançado após processo de negociação direta entre vencedor do leilão e o pregoeiro
+Coluna 13 - "GanhoNegociacao": Ganho em unidade monetárias com o processo de negociação
+Coluna 14 - "GanhoPregao": Diferença percentual entre o valor negociado e o valor de referência da venda
+Coluna 15 - "AceitoPara_CNPJ": Número CNPJ do vencedor do pregão

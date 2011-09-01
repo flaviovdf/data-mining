@@ -1,0 +1,9 @@
+1: Cluster
+2: ChavePregao
+3: UASG
+4: PregoeiroOficial
+5: AceitoPara_CNPJ
+6: PeloMenorLance
+7: ValorReferencia
+8: GanhoPregao
+9: SuperFaturamento
