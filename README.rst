@@ -3,7 +3,7 @@ Data Mining
 
 Code related to the projects of my data minign course. Each individual work will be on a package:
 
-* tp[1-7]
+* tp[1-4]
 
 The final project will be one:
 
@@ -20,6 +20,7 @@ Base dependencies:
 * scipy
 * matplotlib
 * scikits-learn (see bellow)
+* nltk
 
 This code makes use of bleeding edge version of some packages. You will need to install
 them by hand:
@@ -28,4 +29,5 @@ them by hand:
 
 Some code was copied from Scipy's repository also (need not be installed). 
 Hopefully, on the next release of scikits-learn and scipy we will have the 
-functionality needed by default.
+functionality needed by default. We hope to remove this bleeding edge dependencies
+as new versions of scipy and learn are released.

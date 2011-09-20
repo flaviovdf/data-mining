@@ -12,7 +12,7 @@ made:
 from __future__ import division, print_function
 
 from dm.tp1 import tcu_io
-from dm.stats.curves import ecdf, categorical_hist
+from vod.stats.curves import ecdf, categorical_hist
 
 from matplotlib import pyplot as plt
 from numpy import ma

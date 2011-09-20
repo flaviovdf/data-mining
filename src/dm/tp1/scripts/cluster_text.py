@@ -10,7 +10,7 @@ This code cluster each Pregao based on their description as follows:
 from __future__ import division, print_function
 
 from dm.tp1 import tcu_io
-from dm.stats.confidence_interval import confidence_interval
+from vod.stats.ci import confidence_interval
 
 from collections import Counter
 from matplotlib import pyplot as plt
