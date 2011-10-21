@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{alpaydin2010introduction}
+E.~Alpaydin.
+\newblock {\em Introduction to machine learning 2nd Edition}.
+\newblock The MIT Press, 2010.
+
+\bibitem{baeza2010modern}
+R.~Baeza-Yates, B.~Ribeiro-Neto, et~al.
+\newblock {\em Modern information retrieval}.
+\newblock ACM press New York, 2010.
+
+\bibitem{figueiredo2009evidence}
+F.~Figueiredo, F.~Bel{\'e}m, H.~Pinto, J.~Almeida, M.~Gon{\c{c}}alves,
+  D.~Fernandes, E.~Moura, and M.~Cristo.
+\newblock Evidence of quality of textual features on the web 2.0.
+\newblock In {\em Proceeding of the 18th ACM conference on Information and
+  knowledge management}. ACM, 2009.
+
+\bibitem{haveliwala2002ess}
+T.H. Haveliwala, A.~Gionis, D.~Klein, and P.~Indyk.
+\newblock {Evaluating strategies for similarity search on the web}.
+\newblock In {\em Proc. WWW}, 2002.
+
+\bibitem{meira}
+W.~Meira and M.~Zaki.
+\newblock {\em Fundamentals of Data Mining Algorithms}.
+\newblock To Appear, 20xx.
+
+\bibitem{menasce2004performance}
+D.A. Menasce, V.A.F. Almeida, L.W. Dowdy, and L.~Dowdy.
+\newblock {\em Performance by design: computer capacity planning by example}.
+\newblock Prentice Hall, 2004.
+
+\bibitem{ramage2009ctw}
+D.~Ramage, P.~Heymann, C.D. Manning, and H.~Garcia-Molina.
+\newblock {Clustering the tagged web}.
+\newblock In {\em Proc. WSDM}, 2009.
+
+\bibitem{sculley2010web}
+D.~Sculley.
+\newblock Web-scale k-means clustering.
+\newblock In {\em Proceedings of the 19th international conference on World
+  wide web}, pages 1177--1178. ACM, 2010.
+
+\end{thebibliography}
