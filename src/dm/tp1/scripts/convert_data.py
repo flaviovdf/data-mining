@@ -16,8 +16,8 @@ from __future__ import division, print_function
 
 from dm.tp1 import tcu_io
 
-from scikits.learn.feature_extraction.text import Vectorizer
-from scikits.learn.cluster import MiniBatchKMeans
+from sklearn.feature_extraction.text import Vectorizer
+from sklearn.cluster import MiniBatchKMeans
 
 import argparse
 import numpy as np

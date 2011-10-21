@@ -10,13 +10,13 @@ This code cluster each Pregao based on their description as follows:
 from __future__ import division, print_function
 
 from dm.tp1 import tcu_io
-from vod.stats.ci import confidence_interval
+from vod.stats.ci import half_confidence_interval_size
 
 from collections import Counter
 from matplotlib import pyplot as plt
-from scikits.learn.cluster import MiniBatchKMeans
-from scikits.learn.feature_extraction.text import Vectorizer
-from scikits.learn.metrics import pairwise
+from sklearn.cluster import MiniBatchKMeans
+from sklearn.feature_extraction.text import Vectorizer
+from sklearn.metrics import pairwise
 
 import argparse
 import numpy as np
@@ -88,7 +88,7 @@ def main(tcu_fpath):
     for k in x:
         div = inter[k] / intra[k]
         y.append(np.mean(div))
-        c.append(confidence_interval(div, 0.90))
+        c.append(half_confidence_interval_size(div, 0.90))
     
     #hack for the zero to apper
     x = [0] + x
